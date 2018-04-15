@@ -2,10 +2,10 @@
 
 This is the basic setup of TensorFlow.js using:
 
-- TensorFlow.js
-- Webpack
-- Babel
-- ESLint
+- [TensorFlow.js](https://js.tensorflow.org/)
+- [Webpack](https://webpack.js.org/)
+- [Babel](https://babeljs.io/)
+- [ESLint](https://eslint.org/)
 
 **Note: This is for development purposes only. This is not production-ready. Webpack is using Source-Maps and `mode: 'development'`.**
 
