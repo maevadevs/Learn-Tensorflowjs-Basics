@@ -1,4 +1,4 @@
-# TensorFlow.js Demo
+# TensorFlow.js Basics
 
 This is the basic setup of TensorFlow.js using:
 
