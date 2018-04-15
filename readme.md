@@ -1,6 +1,6 @@
 # TensorFlow.js Demo
 
-This is the basic getting started demo of TensorFlow.js using:
+This is the basic setup of TensorFlow.js using:
 
 - TensorFlow.js
 - Webpack
